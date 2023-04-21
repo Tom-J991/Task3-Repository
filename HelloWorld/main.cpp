@@ -7,6 +7,7 @@ int main()
 	std::cout << "Your specimen has been processed and we are now ready to begin the test proper." << std::endl;
 	std::cout << "Before we start, however, keep in mind although fun and learning are the primary goals of enrichment center activities, serious injuries may occur." << std::endl;
 	std::cout << "For your own safety, and the safety of others, please refrain from exiting before saving..." << std::endl;
+	std::cout << "For your own safety, and the safety of others, please refrain from committing before saving..." << std::endl;
 
 	std::cin.ignore();
 	return 0;
